@@ -1,10 +1,10 @@
-import { title } from 'process'
+// import { title } from 'process'
 import React from 'react'
 import Heading from './Heading'
 import Card from './Card'
 
 
-let data =[
+const data =[
     {
     id:0,
     title: "Resume",
